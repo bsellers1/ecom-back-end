@@ -9,9 +9,9 @@
 - npm run seed
 - nodemon server.js
 ## Usage
-- Once
+- Once installation is done open insomnia to run the routes.
 ## License
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contributions
-
+- This project was done by myself.
 ## Video Demo
